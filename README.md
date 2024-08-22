@@ -4,7 +4,7 @@
 A chatting application created using MERN tech stack.
 ## Authors
 
-- [@Kushal Sharma](https://www.github.com/Kushal4369)
+- [@Nisha](https://www.github.com/nisha2343)
 
 
 ## Features
